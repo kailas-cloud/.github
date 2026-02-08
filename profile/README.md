@@ -16,9 +16,9 @@
 
 ---
 
-<h4 align="center">Contact</h4>
+<h4 align="center">About me</h4>
 
 <p align="center">
   <a href="https://github.com/chistopat"><img src="https://img.shields.io/badge/chistopat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/chistopat/"><img src="https://img.shields.io/badge/chistopat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/chistopat/"><img src="https://raw.githubusercontent.com/kailas-cloud/.github/main/profile/linkedin.png" height="28" alt="LinkedIn"></a>
 </p>
