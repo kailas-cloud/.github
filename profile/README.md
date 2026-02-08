@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>I explore applied AI by building scalable, production-ready systems —<br>
+  <b>I build scalable, production-ready tools because I can —<br>
   and share what survives real-world use.</b>
 </p>
 
