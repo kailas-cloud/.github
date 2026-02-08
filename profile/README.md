@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/kailas-cloud/.github/main/profile/banner.png" alt="Kailas Cloud" width="100%">
 </p>
 
-<h3 align="center">
-  Exploring applied AI and agentic software in real production systems.
-</h3>
-
 <p align="center">
   <b>I build scalable, production-ready tools because I can —<br>
   and share what survives real-world use.</b>
@@ -19,5 +15,6 @@
 </p>
 
 <p align="center">
-  🏔 <a href="https://kailas.cloud">kailas.cloud</a> · 💼 <a href="https://www.linkedin.com/in/chistopat/">linkedin</a>
+  <a href="https://github.com/chistopat"><img src="https://img.shields.io/badge/chistopat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/chistopat/"><img src="https://img.shields.io/badge/chistopat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
