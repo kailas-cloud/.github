@@ -14,6 +14,10 @@
   <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/orchestrated_by-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
 </p>
 
+---
+
+<h4 align="center">Contact</h4>
+
 <p align="center">
   <a href="https://github.com/chistopat"><img src="https://img.shields.io/badge/chistopat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/chistopat/"><img src="https://img.shields.io/badge/chistopat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
